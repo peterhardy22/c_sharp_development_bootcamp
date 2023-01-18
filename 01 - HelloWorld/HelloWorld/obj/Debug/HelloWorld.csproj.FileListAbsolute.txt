@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\01 - HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
