@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\bin\Debug\Variables.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\obj\Debug\Variables.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\02 - Variables\Variables\obj\Debug\Variables.pdb
