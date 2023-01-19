@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\03 - TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb
