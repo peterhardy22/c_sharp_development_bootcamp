@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\bin\Debug\Operators.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\obj\Debug\Operators.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\04 - Operators\Operators\obj\Debug\Operators.pdb
