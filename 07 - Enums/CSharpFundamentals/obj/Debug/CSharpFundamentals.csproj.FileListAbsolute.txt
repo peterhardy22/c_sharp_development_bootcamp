@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\07 - Enums\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
