@@ -1,0 +1,8 @@
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\obj\Debug\Iterations.csproj.SuggestedBindingRedirects.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\phardy_d\Desktop\Home_Repos\c_sharp_development_bootcamp\09 - Iterations\Iterations\obj\Debug\Iterations.pdb
